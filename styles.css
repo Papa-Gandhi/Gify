@@ -1,1 +1,6 @@
-
+.center {
+  display: block;
+  margin-left: 100;
+  margin-right: 10;
+  width: 90%;
+}
